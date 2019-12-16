@@ -1,0 +1,4 @@
+
+rsquid:S00116"URename this field "IdNhanVien" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÁöùÿÿÿÿ
+ksquid:S00116%"SRename this field "IdDichVu" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ËÎ
+˜squid:S1186'"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ıùËÚ

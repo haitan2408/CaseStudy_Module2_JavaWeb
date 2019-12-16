@@ -1,0 +1,6 @@
+
+Vsquid:S4684"@Replace this persistent entity with a simple POJO or DTO object.(ÈÀŸq
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(£ÆÏÁ8âÕ„åð-
+Vsquid:UselessImportCheck"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ
+rsquid:UselessImportCheck"IRemove this unused import 'org.springframework.web.servlet.ModelAndView'.(Ç¨ÿäûÿÿÿÿ

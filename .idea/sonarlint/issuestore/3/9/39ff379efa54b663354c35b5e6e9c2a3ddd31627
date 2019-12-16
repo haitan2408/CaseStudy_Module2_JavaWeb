@@ -1,0 +1,5 @@
+
+hsquid:S00117W"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×”ë
+lsquid:S00116 "ORename this field "CMND" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÄãÉıÿÿÿÿ
+squid:UselessImportCheck"QRemove this unused import 'org.springframework.format.annotation.DateTimeFormat'.(‡ˆôƒøÿÿÿÿ8êâìçğ-
+—squid:S1186/"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(É€ÆK
